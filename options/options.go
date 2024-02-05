@@ -16,7 +16,7 @@ type LOp struct {
 
 func DefaultLOp() *LOp {
 	return &LOp{
-		Mode:          "Simple",
+		Mode:          "Default",
 		ExpireTime:    0,
 		Key:           "default-lock-key",
 		Value:         "",
