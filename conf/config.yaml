@@ -1,5 +1,5 @@
 redis:
-  host: "gz-crs-jfoy3eo1.sql.tencentcdb.com"
-  port: 28103
+  host: "xxxxx"
+  port: 4103
   db: 0
-  pwd: "@123qweQWE"
+  pwd: "xxxx"
